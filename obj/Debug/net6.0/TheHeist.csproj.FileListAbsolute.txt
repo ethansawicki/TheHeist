@@ -1,0 +1,15 @@
+C:\Users\Ethan\workspace\TheHeist\bin\Debug\net6.0\TheHeist.exe
+C:\Users\Ethan\workspace\TheHeist\bin\Debug\net6.0\TheHeist.deps.json
+C:\Users\Ethan\workspace\TheHeist\bin\Debug\net6.0\TheHeist.runtimeconfig.json
+C:\Users\Ethan\workspace\TheHeist\bin\Debug\net6.0\TheHeist.dll
+C:\Users\Ethan\workspace\TheHeist\bin\Debug\net6.0\TheHeist.pdb
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.csproj.AssemblyReference.cache
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.AssemblyInfoInputs.cache
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.AssemblyInfo.cs
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.dll
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\refint\TheHeist.dll
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.pdb
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\TheHeist.genruntimeconfig.cache
+C:\Users\Ethan\workspace\TheHeist\obj\Debug\net6.0\ref\TheHeist.dll
