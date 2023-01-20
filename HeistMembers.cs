@@ -8,9 +8,20 @@ namespace Heist
 {
     internal class HeistMembers
     {
-        internal string Name { get; set; }
-        internal int SkillLevel { get; set; }
-        internal decimal CourageFactor { get; set; }
-
+        //Member Names
+        internal string MemberNameOne { get; set; }
+        internal string MemberNameTwo { get; set; }
+        internal string MemberNameThree { get; set; }
+        internal List<string> Members = new();
+        //Skill Levels
+        internal string MemberOneSkillLevel { get; set; }
+        internal string MemberTwoSkillLevel { get; set; }
+        internal string MemberThreeSkillLevel { get; set; }
+        internal List<int> SkillLevels = new();
+        //Courage Levels
+        internal decimal MemberOneCourage { get; set; }
+        internal decimal MemberTwoCourage { get; set; }
+        internal decimal MemberThreeCourage { get; set; }
+        internal List<decimal> CourageLevels = new();
     }
 }
